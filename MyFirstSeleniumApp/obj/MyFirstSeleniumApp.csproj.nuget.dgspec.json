@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NHK81HC\\Desktop\\MyFirstSeleniumApp\\MyFirstSeleniumApp\\MyFirstSeleniumApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NHK81HC\\Desktop\\MyFirstSeleniumApp\\MyFirstSeleniumApp\\MyFirstSeleniumApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NHK81HC\\Desktop\\MyFirstSeleniumApp\\MyFirstSeleniumApp\\MyFirstSeleniumApp.csproj",
+        "projectName": "MyFirstSeleniumApp",
+        "projectPath": "C:\\Users\\NHK81HC\\Desktop\\MyFirstSeleniumApp\\MyFirstSeleniumApp\\MyFirstSeleniumApp.csproj",
+        "packagesPath": "C:\\Users\\NHK81HC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NHK81HC\\Desktop\\MyFirstSeleniumApp\\MyFirstSeleniumApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NHK81HC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

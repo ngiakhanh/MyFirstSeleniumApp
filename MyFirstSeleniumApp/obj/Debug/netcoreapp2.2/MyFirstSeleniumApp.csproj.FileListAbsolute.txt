@@ -1,0 +1,11 @@
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\bin\Debug\netcoreapp2.2\MyFirstSeleniumApp.deps.json
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\bin\Debug\netcoreapp2.2\MyFirstSeleniumApp.runtimeconfig.json
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\bin\Debug\netcoreapp2.2\MyFirstSeleniumApp.runtimeconfig.dev.json
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\bin\Debug\netcoreapp2.2\MyFirstSeleniumApp.dll
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.csprojAssemblyReference.cache
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.csproj.CoreCompileInputs.cache
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.AssemblyInfoInputs.cache
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.AssemblyInfo.cs
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\bin\Debug\netcoreapp2.2\MyFirstSeleniumApp.pdb
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.dll
+C:\Users\NHK81HC\Desktop\MyFirstSeleniumApp\MyFirstSeleniumApp\obj\Debug\netcoreapp2.2\MyFirstSeleniumApp.pdb
